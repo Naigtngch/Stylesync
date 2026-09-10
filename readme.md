@@ -56,7 +56,7 @@ seed_admin.py
 
 ### 2. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/stylesync.git
+git clone https://github.com/Naigtngch/Stylesync
 cd stylesync
 ```
 
